@@ -7,7 +7,7 @@ The purpose of this analysis is to conduct a database analysis for Pewlett Hacka
 ## Results
 The ERD used to help visualize the relationship between the data sources and the structure of the company's employee plan to facilitate the analysis and avoid errors. 
     
-                        ![EmployeeDB](Resources/EmployeeDB.png)
+                        ![EmployeesDB](Resources/EmployeesDB.png)
 
 ### List of Retiriing Employees
 * The table includes employee number, first name, last name, title, from-date and to-date. 
