@@ -5,9 +5,7 @@
 The purpose of this analysis is to conduct a database analysis for Pewlett Hackard with detailed information on the number of future retirees from all departments currently working at the company. In addition, to prepare a plan to hire new staff and create a mentorship program. The criterion was based on the birth dates ranging from 1952 to 1955
 
 ## Results
-The ERD used to help visualize the relationship between the data sources and the structure of the company's employee plan to facilitate the analysis and avoid errors. 
-    
-                        ![EmployeesDB](Resources/EmployeesDB.png)
+The ERD used to help visualize the relationship between the data sources and the structure of the company's employee plan to facilitate the analysis and avoid errors. ![EmployeesDB](Resources/EmployeesDB.png)
 
 ### List of Retiriing Employees
 * The table includes employee number, first name, last name, title, from-date and to-date. 
